@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Outlook Page</string>
+  <string name="search_text_hint">Page Title</string>
+  <string name="internet_not_connected">Internet is not connected. Please change internet setting.</string>
+  <string name="ok">OK</string>
+</resources>
